@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+#content {
+    margin: 0 auto;
+    width: 900px;
+    min-width: 900px;
+    text-align: center
+}
+
+.icon-delete { background-image: url(../images/delete.png) !important }
+.icon-print { background-image: url(../images/print.png) !important }
